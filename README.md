@@ -1,6 +1,6 @@
 ## Tackling the Ill-Posedness of Super-Resolution through Adaptive Target Generation
 
-[[Paper]]() 
+[[Paper]](https://openaccess.thecvf.com/content/CVPR2021/html/Jo_Tackling_the_Ill-Posedness_of_Super-Resolution_Through_Adaptive_Target_Generation_CVPR_2021_paper.html)
 
 
 ## Dependency
@@ -22,7 +22,7 @@ unzip models.zip
 
 
 ## Test - Isotropic Gaussian Kernels
-1. Download a [zip](https://drive.google.com/file/d/1dbLiw40o4oN1ysKiDrvgZvG5T-2vtD7E/view?usp=sharing) file contains the images of the Gaussian8 test set, and extract it.
+1. Download a [zip](https://drive.google.com/file/d/1dbLiw40o4oN1ysKiDrvgZvG5T-2vtD7E/view?usp=sharing) file containing the images of the Gaussian8 test set, and extract it.
 ```
 unzip Gaussian8.zip
 ```
